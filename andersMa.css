@@ -1,0 +1,36 @@
+#m {
+    fill: rgb(237,30,121);
+  }
+  #a_Ma {
+    fill: #fff;
+    stroke: #000;
+  }
+
+  
+  .buiten {
+    fill: #fff;
+    stroke: #000;
+  }
+  
+  #a_Anders, #n, #d,#e,#r,#s {
+    fill: #fff;
+    stroke: #000;
+  }
+  
+  #andersMag {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+  }
+  #g{
+    fill: rgb(121, 36, 121);
+  }
+  #hart {
+    fill: rgb(82, 23, 82);
+    text-align: center;
+  }
+
+  
